@@ -1,0 +1,2 @@
+1. Online ride worker pay for sales
+2. Complete the flow on the worker end
